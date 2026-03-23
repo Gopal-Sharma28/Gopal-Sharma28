@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Gopal Sharma
 
-🎓 Computer Science Engineering Graduate
-💻 Aspiring Software Engineer | Problem Solver | Tech Enthusiast
-
+🎓 Computer Science Engineering Graduate  
+💡 Passionate about building efficient solutions  
+💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
 ---
 
 ## 👨‍💻 About Me
