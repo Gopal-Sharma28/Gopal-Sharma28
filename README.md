@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Gopal Sharma
 
-🎓 Computer Science Engineering Graduate  
-💡 Passionate about building efficient solutions  
+🎓 CSE Graduate  
 💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
 ---
 
@@ -11,7 +10,7 @@ Motivated and detail-oriented Computer Science Engineering graduate with a stron
 
 Proficient in **C, C++, Python, and Java**, with a passion for solving real-world problems and building efficient solutions.
 
-I am eager to contribute to innovative projects in a **dynamic, growth-oriented environment** and continuously improve my technical expertise.
+I am eager to contribute to innovative projects and passionate about building efficient solutions in a **dynamic, growth-oriented environment** and continuously improve my technical expertise.
 
 ---
 
