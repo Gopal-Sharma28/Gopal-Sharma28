@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-Motivated and detail-oriented Computer Science Engineering graduate with a strong foundation in **software development, algorithms, and data structures**.
+I enjoy building efficient and scalable software solutions while continuously strengthening my fundamentals in **algorithms and system design.**.
 
 Proficient in **C, C++, Python, and Java**, with a passion for solving real-world problems and building efficient solutions.
 
