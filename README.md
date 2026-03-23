@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Gopal Sharma
 
-🎓 CSE Graduate  
-💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
+🎓 CSE Graduate | 💻 Aspiring Software Engineer | 🚀 Tech Enthusiast
 ---
 
 ## 👨‍💻 About Me
