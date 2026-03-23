@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I enjoy building efficient and scalable software solutions while continuously strengthening my fundamentals in **algorithms and system design.**.
+I enjoy building efficient and scalable software solutions while continuously strengthening my fundamentals in **algorithms and system design**.
 
 Proficient in **C, C++, Python, and Java**, with a passion for solving real-world problems and building efficient solutions.
 
